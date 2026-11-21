@@ -2,7 +2,7 @@
     "name": "hryvinskyi/magento2-data-layer-api",
     "description": "Published contracts of the GA4 ecommerce data layer: events and items as value types, the batch item-field extension point, price visibility, cart tracking policy, cart kinds that report events of their own, the server-event queue and the list-data renderer bridges use.",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": "~8.3.0||~8.4.0",
+        "php": "~8.3.0||~8.4.0||~8.5.0",
         "magento/framework": "*",
         "magento/module-catalog": "*",
         "magento/module-quote": "*",
